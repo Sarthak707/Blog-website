@@ -12,7 +12,7 @@ The Web app focusses on implementing Full Stack Web Development Using NodeJS and
 ![](contact1.png)
 ## Compose Page-
 ![](compose1.png)
-## Pose Page-
+## Post Page-
 ![](post1.png)
 
 # Inspiration
