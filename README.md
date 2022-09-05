@@ -1,11 +1,11 @@
 # Blog-website
-created a blog website
+Created a blog website
 This is one of the projects from the course i took by Angela Yu.
 The Web app focusses on implementing Full Stack Web Development Using NodeJS and ExpressJS as backend along with use of EJS for templating and layouts functionality for better code structuring. Also used Lodash for working with url and strings.
 
 # Snapshots:
 ## Home Page-
-![](about1.png)
+![](home1.png)
 ## About Page-
 ![](about1.png)
 ## Contact Page-
